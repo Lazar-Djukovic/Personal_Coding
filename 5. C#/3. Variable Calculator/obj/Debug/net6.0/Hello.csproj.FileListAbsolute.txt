@@ -1,0 +1,60 @@
+C:\Users\Lenovo\Documents\Programming Lazar\C#\Hello\bin\Debug\net6.0\Hello.exe
+C:\Users\Lenovo\Documents\Programming Lazar\C#\Hello\bin\Debug\net6.0\Hello.deps.json
+C:\Users\Lenovo\Documents\Programming Lazar\C#\Hello\bin\Debug\net6.0\Hello.runtimeconfig.json
+C:\Users\Lenovo\Documents\Programming Lazar\C#\Hello\bin\Debug\net6.0\Hello.dll
+C:\Users\Lenovo\Documents\Programming Lazar\C#\Hello\bin\Debug\net6.0\ref\Hello.dll
+C:\Users\Lenovo\Documents\Programming Lazar\C#\Hello\bin\Debug\net6.0\Hello.pdb
+C:\Users\Lenovo\Documents\Programming Lazar\C#\Hello\obj\Debug\net6.0\Hello.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Programming Lazar\C#\Hello\obj\Debug\net6.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Programming Lazar\C#\Hello\obj\Debug\net6.0\Hello.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Programming Lazar\C#\Hello\obj\Debug\net6.0\Hello.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Programming Lazar\C#\Hello\obj\Debug\net6.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Programming Lazar\C#\Hello\obj\Debug\net6.0\Hello.dll
+C:\Users\Lenovo\Documents\Programming Lazar\C#\Hello\obj\Debug\net6.0\ref\Hello.dll
+C:\Users\Lenovo\Documents\Programming Lazar\C#\Hello\obj\Debug\net6.0\Hello.pdb
+C:\Users\Lenovo\Documents\Programming Lazar\C#\Hello\obj\Debug\net6.0\Hello.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\Hello\bin\Debug\net6.0\Hello.exe
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\Hello\bin\Debug\net6.0\Hello.deps.json
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\Hello\bin\Debug\net6.0\Hello.runtimeconfig.json
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\Hello\bin\Debug\net6.0\Hello.dll
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\Hello\bin\Debug\net6.0\ref\Hello.dll
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\Hello\bin\Debug\net6.0\Hello.pdb
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\Hello\obj\Debug\net6.0\Hello.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\Hello\obj\Debug\net6.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\Hello\obj\Debug\net6.0\Hello.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\Hello\obj\Debug\net6.0\Hello.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\Hello\obj\Debug\net6.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\Hello\obj\Debug\net6.0\Hello.dll
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\Hello\obj\Debug\net6.0\ref\Hello.dll
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\Hello\obj\Debug\net6.0\Hello.pdb
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\Hello\obj\Debug\net6.0\Hello.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variables\obj\Debug\net6.0\Hello.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variables\obj\Debug\net6.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variables\obj\Debug\net6.0\Hello.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variables\obj\Debug\net6.0\Hello.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variables\obj\Debug\net6.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variables\obj\Debug\net6.0\Hello.dll
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variables\obj\Debug\net6.0\ref\Hello.dll
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variables\obj\Debug\net6.0\Hello.pdb
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variables\bin\Debug\net6.0\Hello.exe
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variables\bin\Debug\net6.0\Hello.deps.json
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variables\bin\Debug\net6.0\Hello.runtimeconfig.json
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variables\bin\Debug\net6.0\Hello.dll
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variables\bin\Debug\net6.0\ref\Hello.dll
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variables\bin\Debug\net6.0\Hello.pdb
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variables\obj\Debug\net6.0\Hello.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variable Calculator\bin\Debug\net6.0\Hello.exe
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variable Calculator\bin\Debug\net6.0\Hello.deps.json
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variable Calculator\bin\Debug\net6.0\Hello.runtimeconfig.json
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variable Calculator\bin\Debug\net6.0\Hello.dll
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variable Calculator\bin\Debug\net6.0\ref\Hello.dll
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variable Calculator\bin\Debug\net6.0\Hello.pdb
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variable Calculator\obj\Debug\net6.0\Hello.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variable Calculator\obj\Debug\net6.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variable Calculator\obj\Debug\net6.0\Hello.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variable Calculator\obj\Debug\net6.0\Hello.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variable Calculator\obj\Debug\net6.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variable Calculator\obj\Debug\net6.0\Hello.dll
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variable Calculator\obj\Debug\net6.0\ref\Hello.dll
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variable Calculator\obj\Debug\net6.0\Hello.pdb
+C:\Users\Lenovo\Documents\Programming Lazar\2. C#\1. Brackeys Begginer tutorial\3. Variable Calculator\obj\Debug\net6.0\Hello.genruntimeconfig.cache

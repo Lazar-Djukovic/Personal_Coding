@@ -155,27 +155,27 @@ while not done:
             done = True
  
         elif event.type == pygame.KEYDOWN:
-            if event.key == pygame.K_LEFT:
+            if event.key == pygame.K_a:
                 player.changespeed(-ms, 0)
                 player.direction('Left')
-            elif event.key == pygame.K_RIGHT:
+            elif event.key == pygame.K_d:
                 player.changespeed(ms, 0)
                 player.direction('Right')
-            elif event.key == pygame.K_UP:
+            elif event.key == pygame.K_w:
                 player.changespeed(0, -ms)
                 player.direction('Up')
-            elif event.key == pygame.K_DOWN:
+            elif event.key == pygame.K_s:
                 player.changespeed(0, ms)
                 player.direction('Down')
  
         elif event.type == pygame.KEYUP:
-            if event.key == pygame.K_LEFT:
+            if event.key == pygame.K_a:
                 player.changespeed(ms, 0)
-            elif event.key == pygame.K_RIGHT:
+            elif event.key == pygame.K_d:
                 player.changespeed(-ms, 0)
-            elif event.key == pygame.K_UP:
+            elif event.key == pygame.K_w:
                 player.changespeed(0, ms)
-            elif event.key == pygame.K_DOWN:
+            elif event.key == pygame.K_s:
                 player.changespeed(0, -ms)
  
     all_sprite_list.update()

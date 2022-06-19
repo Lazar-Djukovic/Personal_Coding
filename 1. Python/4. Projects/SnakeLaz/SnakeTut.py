@@ -2,7 +2,6 @@ from email import message
 import pygame
 import random
 
-#ep38 - score
 
 #initializes the pygame module
 pygame.init()

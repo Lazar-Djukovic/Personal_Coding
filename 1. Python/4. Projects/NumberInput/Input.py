@@ -1,5 +1,3 @@
-from re import X
-from turtle import color
 import pygame
 
 file = open('numbers.txt', 'w')
@@ -29,32 +27,18 @@ clock = pygame.time.Clock()
 
 class button():
   
-  def __init__(self,msg,color,x,y,w,h,size):
+  def __init__(self,msg,color,x,y,font):
      self.msg = msg
      self.color = color
      self.buttonx = x 
      self.buttony = y
+     self.width = 50
+     self.height = 30
+     self.font = font
+    
+  def draw(self):
 
-  def text_to_button(self,msg, color, buttonx,buttony,buttonw,buttonh, size ="small"):
-    textSurf, textRect = self.text_objects(msg,color,size)
-    textRect.center = ((buttonx+(buttonw/2), buttony + (buttonh/2)))
-    screen.blit(textSurf, textRect)
 
-  def text_objects(self,text,color,size):
-    if size == "small":
-      textSurface = smallfont.render(text,True,color)
-    elif size == "medium":
-      textSurface = medfont.render(text,True,color)
-    elif size == "large":
-      textSurface = largefont.render(text,True,color)
-
-    return textSurface, textSurface.get_rect()
-
-  def message_to_screen(self,msg,color, y_displace = 0, size = "small"):
-  
-    textSurf, textRect = text_objects(msg,color,size)
-    textRect.center = (display_width/2), (display_height/2) + y_displace
-    screen.blit(textSurf, textRect)
 
 
 while not done:
@@ -75,22 +59,3 @@ while not done:
  
 pygame.quit()
 
-def button(text, x,y,w,h,inactive_color, active_color, action = None):
-  cur = pygame.mouse.get_pos()
-  click = pygame.mouse.get_pressed()
-
-  if x + w > cur[0] > x and y + h > cur[1] > y:
-    pygame.draw.rect(screen, active_color, (x,y,w,h))
-    if click[0] == 1 and action != None:
-      if action == "quit":
-        pygame.quit()
-        quit()
-
-      if action == "controls":
-        game_controls()
-
-      if action == "play":
-        gameLoop()
-
-      if action == "menu":
-        game_intro()

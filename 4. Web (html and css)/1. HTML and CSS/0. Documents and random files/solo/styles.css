@@ -1,4 +1,9 @@
 #uno {
-  h1-color: green;
+  color: green;
   text-align: center;
+}
+
+#due {
+  color: red;
+  text-align: left;
 }

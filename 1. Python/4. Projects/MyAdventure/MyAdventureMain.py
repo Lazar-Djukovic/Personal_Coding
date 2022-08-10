@@ -32,6 +32,7 @@ class Player(pygame.sprite.Sprite):
  
         # Set height, width
         
+        #set default sprite
         self.image = PlayerImgR
  
         # Make our top-left corner the passed-in location.
@@ -75,6 +76,8 @@ class Player(pygame.sprite.Sprite):
                 self.rect.bottom = block.rect.top
             else:
                 self.rect.top = block.rect.bottom
+          
+
 
     def direction(self,dir):
       if dir == 'Right':
@@ -181,9 +184,10 @@ while not done:
     all_sprite_list.update()
 
     screen.fill(GREEN)
- 
+
+    pygame.draw.circle(screen,(64,64,64),[player.rect.x+7,player.rect.y+30],8,8)
     all_sprite_list.draw(screen)
- 
+    
     pygame.display.flip()
  
     clock.tick(60)

@@ -1,0 +1,19 @@
+html {
+  font-size: 22px;
+}
+body {
+  background-color: darkslategray;
+  color: whitesmoke;
+}
+
+a {
+  color:aliceblue;
+}
+
+a:visited {
+  color:gainsboro;
+}
+
+a:hover, a:active {
+  color: rgb(148, 142, 142);
+}

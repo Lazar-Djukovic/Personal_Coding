@@ -5,32 +5,42 @@
     <meta name="author" content="gray">
     <meta name="description" content="This page contains things i am learning to code">
 
-    <title>The 6th webpage</title>
+    <title>The 7th webpage</title>
     <link rel="icon" type="icon" href="img/html5.ico">
     <link rel="stylesheet" href="main.css" type="text/css">
   </head>
 <!--We have ordered, unordered and description lists-->
 
   <body>
-    <h1> HTML and Holiday destinations 6</h1>
+    <header>
+    <h1> My goals for the year 7</h1>
     
     <hr>
     
-    <nav>
+    <nav aria-label="primary-navigation">
+
       <ul>
-        <li> <a href="#html">Learn html</a></li>
-        <li> <a href="#hidden">Hidden bit</a></li>
-        <li> <a href="about.html">Find out about me</a></li>
+        <li> 
+          <a href="#html">Learn html</a>
+        </li>
+        <li> 
+          <a href="#vacation">Vacation planning</a>
+        </li>
       </ul>
     </nav>
+  </header>
 
     <hr>
 
-    <section id="html">
+  <main> 
+
+    <article id="html">
 
     <h2>I'm Ready to Learn HTML</h2>
     <p>This is the page with external and internal links <abbr title='Internet web page on a website'> web page </abbr></p>
 
+    <section>
+      <h3>HTML5</h3>
     <img src="img/html.png" alt="HTML5 LOGO" title="I am learning HTML5" width="150">
 
       <figure>
@@ -39,8 +49,9 @@
           <code>&lt;h1&gt;Hello World!&lt;/h1&gt;</code>
         </p>
       </figure>
+    </section>
 
-
+    <section>
     <h3>My Daily Schedule</h3>
     <p>Let me tell you how: </p>
       <ol>
@@ -53,10 +64,21 @@
         </li>
 
       </ol>
-    </section>
+
+      <aside>
+        <details>
+          <summary>
+            Guess the number of hours i code per day
+          </summary>
+        </details>
+      </aside>
+
+  </section>
+</article>
 
     <hr>
 
+  <article id="vacation"> 
     <h3>Places i'd like to visit</h3>
     <ul>
       <li> 
@@ -105,12 +127,20 @@
       <dt>Mountain Tops</dt>
      <dd>Theese are also cold.</dd>
     </dl>
+
+  </article>
     
+  </main>
     <hr>
+  <footer> 
+    <p>
+    &lt;&lt;&lt; &copy; Lazar Djukovic &gt;&gt;&gt;
+    </p>  
 
-
-    &lt;&lt;&lt; &copy; <a href="about.html">Lazar Djukovic</a> &gt;&gt;&gt;
-
+    <a href="#"> >Back to top</a>
+  </footer>
   </body>
+
+
 
 </html>
